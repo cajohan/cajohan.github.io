@@ -2,21 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 我的hugo页面</title>
-    <link>http://example.org/posts/</link>
+    <link>https://cajohan.github.io/posts/</link>
     <description>Recent content in Posts on 我的hugo页面</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Sat, 21 Mar 2020 20:01:07 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2020 22:32:44 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cajohan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>如何用hugo搭建个人博客2</title>
+      <link>https://cajohan.github.io/posts/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A22/</link>
+      <pubDate>Sat, 21 Mar 2020 22:32:44 +0800</pubDate>
+      
+      <guid>https://cajohan.github.io/posts/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A22/</guid>
+      <description>首先先安装hugo 官网有教程
+mac安装  brew install hugo hugo version  win安装  去这个页面下载hugo_xxx_Windows-64bit.zip 解压，把hugo.exe放到一个目录 把该目录加到PATH 重启终端，运行hugo version查看版本  如何快速搭建博客 看文档高出网站  进入Hugo官网，点击Quick Start凯苏开始 从Step 2开始抄代码，直到Step 7 得到一个public目录，这就是我们的博客站点 hugo server -D可以预览草稿 hugo server 可以预览非草稿  预览网站  双击打开public/index.html发现不能预览 因为public/index.html不能使用文件协议预览 请使用hugo server预览  </description>
+    </item>
+    
+    <item>
+      <title>如何用hugo搭建个人博客</title>
+      <link>https://cajohan.github.io/posts/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sat, 21 Mar 2020 21:48:18 +0800</pubDate>
+      
+      <guid>https://cajohan.github.io/posts/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>首先先安装hugo 官网有教程
+mac安装  brew install hugo hugo version  win安装  去这个页面下载hugo_xxx_Windows-64bit.zip 解压，把hugo.exe放到一个目录 把该目录加到PATH 重启终端，运行hugo version查看版本  如何快速搭建博客 看文档高出网站  进入Hugo官网，点击Quick Start凯苏开始 从Step 2开始抄代码，直到Step 7 得到一个public目录，这就是我们的博客站点 hugo server -D可以预览草稿 hugo server 可以预览非草稿  预览网站  双击打开public/index.html发现不能预览 因为public/index.html不能使用文件协议预览 请使用hugo server预览  </description>
+    </item>
+    
+    <item>
       <title>开博大吉</title>
-      <link>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
+      <link>https://cajohan.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
       <pubDate>Sat, 21 Mar 2020 20:01:07 +0800</pubDate>
       
-      <guid>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
+      <guid>https://cajohan.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
       <description>这是第一篇博客</description>
     </item>
     
